@@ -6,7 +6,5 @@ import com.example.projectpopularlibraries.action_processing_activity.view.IActi
 import moxy.MvpPresenter;
 
 public class ActionProcessingPresenter extends MvpPresenter<IActionView> {
-
     private static final String TAG = "ActionProcessingPresenter";
-
 }
